@@ -1,0 +1,9 @@
+#formulario{
+    color: white;
+    background-color: blue;
+    border-radius: 3px;
+    padding: 2rem;
+}
+#formulario:hover{
+    color: black;
+}
